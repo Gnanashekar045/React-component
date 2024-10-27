@@ -202,7 +202,7 @@ a:focus {
 }
 
 .custom_nav-container .nav_search-btn {
-  background-image: url();
+  background-image: url(../images/search-icon.png);
   background-size: 18px;
   background-repeat: no-repeat;
   width: 35px;
@@ -238,7 +238,7 @@ a:focus {
 }
 
 .custom_nav-container .navbar-toggler .navbar-toggler-icon {
-  background-image: url();
+  background-image: url(../images/menu.png);
   background-size: 55px;
 }
 
@@ -342,13 +342,13 @@ a:focus {
 
 .slider_section .carousel-control-prev {
   top: 15%;
-  background-image: url();
+  background-image: url(../images/prev.png);
 }
 
 .slider_section .carousel-control-next {
   top: initial;
   bottom: 15%;
-  background-image: url();
+  background-image: url(../images/next.png);
 }
 
 .book_section {
@@ -785,20 +785,20 @@ a:focus {
 
 .blog_section .owl-carousel .owl-nav .owl-prev {
   left: calc(95% - 45px);
-  background-image: url();
+  background-image: url(../images/left-angle.png);
 }
 
 .blog_section .owl-carousel .owl-nav .owl-prev:hover {
-  background-image: url();
+  background-image: url(../images/left-angle-grey.png);
 }
 
 .blog_section .owl-carousel .owl-nav .owl-next {
   right: calc(5% - 45px);
-  background-image: url();
+  background-image: url(../images/right-angle.png);
 }
 
 .blog_section .owl-carousel .owl-nav .owl-next:hover {
-  background-image: url();
+  background-image: url(../images/right-angle-grey.png);
 }
 
 .us_section .heading_container {
@@ -809,7 +809,7 @@ a:focus {
 }
 
 .us_section .us_container {
-  background-image: url();
+  background-image: url(../images/us-bg.jpg);
   background-size: cover;
 }
 
@@ -988,24 +988,24 @@ a:focus {
 
 .client_section .owl-carousel .owl-nav .owl-prev {
   left: calc(50% - 45px);
-  background-image: url();
+  background-image: url(../images/left-angle.png);
 }
 
 .client_section .owl-carousel .owl-nav .owl-prev:hover {
-  background-image: url();
+  background-image: url(../images/left-angle-grey.png);
 }
 
 .client_section .owl-carousel .owl-nav .owl-next {
   right: calc(50% - 45px);
-  background-image: url();
+  background-image: url(../images/right-angle.png);
 }
 
 .client_section .owl-carousel .owl-nav .owl-next:hover {
-  background-image: url();
+  background-image: url(../images/right-angle-grey.png);
 }
 
 .contact_section {
-  background-image: url();
+  background-image: url("../");
   background-size: cover;
   color: #fefdfc;
 }

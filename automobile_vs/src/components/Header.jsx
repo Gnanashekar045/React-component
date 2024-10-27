@@ -1,10 +1,22 @@
 import { Component } from "react";
+import "bootstrap/dist/css/bootstrap.min.css"
 
 
 export class Header extends Component {
+  state = {
+    navOpen: false,
+  };
+
+  toggleNav = () => {
+    this.setState((prevState) => ({
+      navOpen: !prevState.navOpen,
+    }));
+  };
+
   render() {
     return (
       <div>
+        <img src={back_car} alt="" />
         <header class="header_section">
       <div class="container-fluid">
         <nav class="navbar navbar-expand-lg custom_nav-container">
