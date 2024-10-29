@@ -4,7 +4,6 @@ import '@fortawesome/fontawesome-free/css/all.min.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'animate.css/animate.min.css';
 import 'react-datepicker/dist/react-datepicker.css';
-// import 'icofont/css/icofont.min.css';
 import 'magnific-popup/dist/magnific-popup.css';
 // import 'magnific-popup';
 import 'normalize.css';
