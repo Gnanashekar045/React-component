@@ -5,7 +5,6 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import 'animate.css/animate.min.css';
 import 'react-datepicker/dist/react-datepicker.css';
 import 'magnific-popup/dist/magnific-popup.css';
-// import 'magnific-popup';
 import 'normalize.css';
 import 'owl.carousel/dist/assets/owl.carousel.css';
 // import 'owl.carousel';
