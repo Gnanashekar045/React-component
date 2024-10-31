@@ -65,7 +65,7 @@ class Silder extends Component {
                             </div>
                         </div>
                     </div>
-                    
+                    //dee//
                 </div>
             </section>
         );
