@@ -25,7 +25,7 @@ class Service extends Component {
                                             Currency Wallet
                                         </h5>
                                         <p>
-                                            fact that a reader will be distracted b the readable content of a page when looking at its layout.
+                                            fact that a reader will be distracted by the readable content of a page when looking at its layout.
                                             The
                                             point of using
                                         </p>
