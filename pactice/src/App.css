@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  disply: flex;
+  justift-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.container {
+  width: 100%;
+  disply: flex;
+  flex-wrap: wrap;
+  margin: 10px;
+  gap: 10px;
+  font-weight: 17px;
+  font-family: sans-serif;
+  
+
+}
+
+.container>div{
+  
+}
